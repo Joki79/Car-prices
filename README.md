@@ -42,6 +42,7 @@ I used OneHotEncoder for categorical variables and Feature Scaler for numerical 
 
 # Evaluation 
 The train and test result gave a high value of r- squared which means that 94% and 89% of variations in the price of the car can be explained trough variations in independent features, respectively.
+![Screen Shot 2022-02-16 at 5 47 02 PM](https://user-images.githubusercontent.com/57463075/154382624-78218cc3-e18f-44fe-917a-0ad004d27bbe.png)
 
 The average percentage error on the test set is 13% of the car price. 
 
